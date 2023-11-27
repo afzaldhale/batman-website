@@ -1,0 +1,22 @@
+*{
+    margin:0%;
+    padding:0%;
+ 
+
+}
+body{
+    font-family: sans-serif;
+}
+
+.batmanimg{
+    display:flex;
+    justify-content: center;
+}
+#chane{
+    text-decoration: none;
+     color: black;
+}
+#chane:hover{
+ 
+     color: rgb(255, 255, 255);
+}
